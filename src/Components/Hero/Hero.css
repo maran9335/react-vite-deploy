@@ -50,6 +50,7 @@
     border-radius: 50px;
     border: 2px solid #FFF;
     cursor: pointer;
+    
 }
 .hero-connect:hover{
     border: 2px solid white;
@@ -57,6 +58,10 @@
 }
 .hero-resume:hover{
     border-color: #B415FF;
+}
+.resume{
+    text-decoration: none;
+    color: white;
 }
 @media(max-width:768px){
     
